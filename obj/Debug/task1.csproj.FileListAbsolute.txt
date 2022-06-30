@@ -1,0 +1,11 @@
+C:\Users\gulzira\Desktop\praktika\1\task1\bin\Debug\task1.exe.config
+C:\Users\gulzira\Desktop\praktika\1\task1\bin\Debug\task1.exe
+C:\Users\gulzira\Desktop\praktika\1\task1\bin\Debug\task1.pdb
+C:\Users\gulzira\Desktop\praktika\1\task1\obj\Debug\task1.csproj.AssemblyReference.cache
+C:\Users\gulzira\Desktop\praktika\1\task1\obj\Debug\task1.csproj.SuggestedBindingRedirects.cache
+C:\Users\gulzira\Desktop\praktika\1\task1\obj\Debug\task1.Form1.resources
+C:\Users\gulzira\Desktop\praktika\1\task1\obj\Debug\task1.Properties.Resources.resources
+C:\Users\gulzira\Desktop\praktika\1\task1\obj\Debug\task1.csproj.GenerateResource.cache
+C:\Users\gulzira\Desktop\praktika\1\task1\obj\Debug\task1.csproj.CoreCompileInputs.cache
+C:\Users\gulzira\Desktop\praktika\1\task1\obj\Debug\task1.exe
+C:\Users\gulzira\Desktop\praktika\1\task1\obj\Debug\task1.pdb
